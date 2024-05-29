@@ -1,2 +1,2 @@
 # NodeJs
-Repository of nodejs stuff i do to practise
+I node molues non ci sono ma li potete installare :D
